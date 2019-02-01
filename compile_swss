@@ -1,0 +1,33 @@
+!#/bin/bash
+
+dpkg -i redis-tools_3.2.4-1~bpo8+1_amd64.deb
+dpkg -i redis-server_3.2.4-1~bpo8+1_amd64.deb
+dpkg -i libhiredis0.13_0.13.3-2_amd64.deb
+dpkg -i libhiredis-dev_0.13.3-2_amd64.deb
+dpkg -i libnl-3-200_3.2.27-2_amd64.deb
+dpkg -i libnl-3-dev_3.2.27-2_amd64.deb
+dpkg -i libnl-genl-3-200_3.2.27-2_amd64.deb
+dpkg -i libnl-genl-3-dev_3.2.27-2_amd64.deb
+dpkg -i libnl-route-3-200_3.2.27-2_amd64.deb
+dpkg -i libnl-route-3-dev_3.2.27-2_amd64.deb
+dpkg -i libnl-nf-3-200_3.2.27-2_amd64.deb
+dpkg -i libnl-nf-3-dev_3.2.27-2_amd64.deb
+dpkg -i libnl-cli-3-200_3.2.27-2_amd64.deb
+dpkg -i libnl-cli-3-dev_3.2.27-2_amd64.deb
+dpkg -i libswsscommon_1.0.0_amd64.deb
+dpkg -i libswsscommon-dev_1.0.0_amd64.deb
+dpkg -i libthrift-0.9.3_0.9.3-2_amd64.deb
+dpkg -i libthrift-dev_0.9.3-2_amd64.deb
+dpkg -i libsaibcm_3.3.4.3-1_amd64.deb
+dpkg -i libsaibcm-dev_3.3.4.3-1_amd64.deb
+dpkg -i python-thrift_0.9.3-2_amd64.deb
+dpkg -i thrift-compiler_0.9.3-2_amd64.deb
+dpkg -i libsaithrift-dev_1.3.5_amd64.deb
+dpkg -i libsairedis_1.0.0_amd64.deb
+dpkg -i libsairedis-dev_1.0.0_amd64.deb
+dpkg -i libsaimetadata_1.0.0_amd64.deb
+dpkg -i libsaimetadata-dev_1.0.0_amd64.deb
+dpkg -i libteam5_1.26-1_amd64.deb
+dpkg -i libteamdctl0_1.26-1_amd64.deb
+dpkg -i libteam-dev_1.26-1_amd64.deb
+dpkg -i libteam-utils_1.26-1_amd64.deb
