@@ -1,0 +1,16 @@
+!#/bin/bash
+
+make target/debs/redis-tools_3.2.4-1~bpo8+1_amd64.deb-clean
+make target/debs/redis-server_3.2.4-1~bpo8+1_amd64.deb-clean
+make target/debs/libswsscommon_1.0.0_amd64.deb-clean
+make target/debs/libswsscommon-dev_1.0.0_amd64.deb-clean
+make target/debs/libthrift-0.9.3_0.9.3-2_amd64.deb-clean
+make target/debs/libthrift-dev_0.9.3-2_amd64.deb-clean
+
+make target/debs/python-thrift_0.9.3-2_amd64.deb-clean
+make target/debs/thrift-compiler_0.9.3-2_amd64.deb-clean
+make target/debs/libsaithrift-dev_1.3.5_amd64.deb-clean
+make target/debs/libsairedis_1.0.0_amd64.deb-clean
+make target/debs/libsairedis-dev_1.0.0_amd64.deb-clean
+make target/debs/libsaimetadata_1.0.0_amd64.deb-clean
+make target/debs/libsaimetadata-dev_1.0.0_amd64.deb-clean
