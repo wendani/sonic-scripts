@@ -1,0 +1,10 @@
+!#/bin/bash
+
+pip install swsssdk-2.0.1-py2-none-any.whl
+pip install sonic_config_engine-1.0-py2-none-any.whl
+
+pip install click
+pip install tabulate
+pip install click-default-group
+pip install natsort
+pip install pytest-runner==4.4

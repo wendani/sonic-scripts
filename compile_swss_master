@@ -1,10 +1,14 @@
 !#/bin/bash
 
-dpkg -i redis-tools_3.2.4-1~bpo8+1_amd64.deb
-dpkg -i redis-server_3.2.4-1~bpo8+1_amd64.deb
+#dpkg -i redis-tools_3.2.4-1~bpo8+1_amd64.deb
+dpkg -i redis-tools_5.0.3-3~bpo9+2_amd64.deb
+#dpkg -i redis-server_3.2.4-1~bpo8+1_amd64.deb
+dpkg -i redis-server_5.0.3-3~bpo9+2_amd64.deb
 
-dpkg -i libhiredis0.13_0.13.3-2_amd64.deb
-dpkg -i libhiredis-dev_0.13.3-2_amd64.deb
+#dpkg -i libhiredis0.13_0.13.3-2_amd64.deb
+dpkg -i libhiredis0.14_0.14.0-3~bpo9+1_amd64.deb
+#dpkg -i libhiredis-dev_0.13.3-2_amd64.deb
+dpkg -i libhiredis-dev_0.14.0-3~bpo9+1_amd64.deb
 
 dpkg -i libnl-3-200_3.2.27-2_amd64.deb
 dpkg -i libnl-3-dev_3.2.27-2_amd64.deb
